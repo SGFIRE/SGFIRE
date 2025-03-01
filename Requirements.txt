@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+python-dotenv
+gradio
+requests
+speechrecognition
+moviepy
