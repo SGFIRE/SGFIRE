@@ -26,7 +26,7 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 
 # Set Gemini API key
-gemini_api_key = "AIzaSyBZNNb9t18a0RVBPtch0knP3nlSNWWu4BA"  # Replace with your actual API key
+gemini_api_key = ""  # Replace with your actual API key
 gemini_api_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
 
 # Database models
